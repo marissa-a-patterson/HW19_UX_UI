@@ -7,7 +7,7 @@ body{
     padding: 15px;
 }
 .logo{
-    width: 150px;
+    width: 236px;
     height: auto;
     float: left;
     box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
@@ -17,7 +17,7 @@ body{
     display: block;
     color: #E6E5E0;
     text-align: center;
-    padding: 14px 16px;
+    padding: 25px 16px;
     list-style-type: none;
 }
 .navsocial {
@@ -28,15 +28,16 @@ body{
 }
 .personalinfo {
     float: left;
+    margin: auto;
     background-color: #FFFFFF;
 }
 .content {
-    margin: 0;
+    margin: auto;
     width: 50%;
     color: #392839;
 }
 .heroImg {
-    width: 150px;
+    width: 359px;
     height: auto;
     padding: 25px;
     padding-left: 25%;
@@ -45,10 +46,10 @@ body{
     height: 10px;
     width: auto;
     display: block;
-   
 }
-button {
-    
+.workheroImg {
+    width: 400;
+    height: auto;
 }
 .footerlink {
     display: block;
