@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+}
+.navigation {
+    overflow: hidden;
+    background-color: #392839;
+    padding: 15px;
+}
+.logo{
+    width: 150px;
+    height: auto;
+    float: left;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+.navlink {
+    float: left;
+    display: block;
+    color: #E6E5E0;
+    text-align: center;
+    padding: 14px 16px;
+    list-style-type: none;
+}
+.navsocial {
+    max-width: 30px;
+    max-height: 30px;
+    float: right;
+    padding-top: 10px;
+}
+.personalinfo {
+    float: left;
+    background-color: #FFFFFF;
+}
+.content {
+    margin: 0;
+    width: 50%;
+    color: #392839;
+}
+.heroImg {
+    width: 150px;
+    height: auto;
+    padding: 25px;
+    padding-left: 25%;
+}
+.ul {
+    height: 10px;
+    width: auto;
+    display: block;
+   
+}
+button {
+    
+}
+.footerlink {
+    display: block;
+    color: #E6E5E0;  
+    background-color: #392839;
+    padding: 2px;
+    padding-left: 350px;
+    list-style-type: none;
+}
