@@ -21,26 +21,26 @@ body{
     list-style-type: none;
 }
 .navsocial {
-    max-width: 30px;
-    max-height: 30px;
+    max-width: 50px;
+    max-height: 50px;
     float: right;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 .personalinfo {
     float: left;
-    margin: auto;
+    margin-left: 200px;
+    padding: 15px;
     background-color: #FFFFFF;
+}
+.heroImg {
+    width: 359px;
+    height: auto;
+    padding-left: 100px;
 }
 .content {
     margin: auto;
     width: 50%;
     color: #392839;
-}
-.heroImg {
-    width: 359px;
-    height: auto;
-    padding: 25px;
-    padding-left: 25%;
 }
 .ul {
     height: 10px;
