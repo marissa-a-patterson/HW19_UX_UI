@@ -1,3 +1,28 @@
+h1 {
+    font-family: 'Playfair Display' , serif;
+    font-size: 40px;
+    color: #392839;
+}
+h2 {
+    font-family: 'Playfair Display' , serif;
+    font-size: 30px;
+}
+h3 {
+    font-family: 'Playfair Display' , serif;
+    font-size: 24px;
+}
+h4 {
+    font-family: 'Playfair Display' , serif;
+    font-size: 20px;
+}
+h5 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+}
+p {
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+}
 body{
     margin: 0;
 }
@@ -5,6 +30,12 @@ body{
     overflow: hidden;
     background-color: #392839;
     padding: 15px;
+}
+a {
+    color: #E6E5E0;
+}
+a:hover {
+    color: #E6E5E0;
 }
 .logo{
     width: 236px;
@@ -83,4 +114,5 @@ body{
         grid-gap: 55px 10px;
         padding: 10px;
         text-align: center;
+    }
 }
