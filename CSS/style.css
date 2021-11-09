@@ -59,7 +59,7 @@ a:hover {
 }
 .personalinfo {
     float: left;
-    margin-left: 200px;
+    margin-left: 100px;
     padding: 15px;
     background-color: #FFFFFF;
 }
@@ -78,14 +78,23 @@ a:hover {
     width: auto;
     display: block;
 }
+button {
+    background-color: #392839;
+    color: #E6E5E0;
+    margin: 5px;
+}
+button:hover{
+    background-color: #534973;    
+}
 .myWork {
     text-align: center;
 }
 .workGrid {
     display: grid; 
     grid-template-columns: auto auto;
-    grid-gap: 55px 10px;
+    grid-gap: 55px 60px;
     padding: 10px;
+    margin: 15px;
     text-align: center;
 }
 .Work3 {
@@ -101,7 +110,7 @@ a:hover {
     color: #E6E5E0;  
     background-color: #392839;
     padding: 2px;
-    padding-left: 350px;
+    padding-left: 50px;
     list-style-type: none;
 }
 @media only screen and (max-width: 600px) {
